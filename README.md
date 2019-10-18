@@ -6,8 +6,11 @@
 
 
 ## Tools
-* Git installation
+* [Git installation](https://www.linuxidc.com/Linux/2018-05/152610.htm)
 <br>sudo apt-get update -y
 <br>sudo apt-get upgrade -y
 <br>sudo apt install git
 <br>/git setting/
+<br>git config --global user.name "linuxidc"
+<br>git config --global user.email "root@linuxidc.net"
+<br>git --help
