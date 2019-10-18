@@ -7,5 +7,5 @@
 
 ## Tools
 * Git installation
-** sudo apt-get update -y
-** sudo apt-get upgrade -y
+<br>sudo apt-get update -y
+<br>sudo apt-get upgrade -y
