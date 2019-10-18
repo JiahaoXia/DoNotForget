@@ -9,3 +9,5 @@
 * Git installation
 <br>sudo apt-get update -y
 <br>sudo apt-get upgrade -y
+<br>sudo apt install git
+<br>/git setting/
