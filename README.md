@@ -17,3 +17,7 @@
 <br>git config --global user.email "root@linuxidc.net"
 <br>git --help
 * [Visual Studio code](https://code.visualstudio.com/)
+<br>launch.json
+<br>delete "enter program name, for example"--->"program":"${workspaceRoot}/a.out"
+<br>task.json
+<br>"command": "g++"
