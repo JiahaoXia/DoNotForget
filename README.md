@@ -22,5 +22,4 @@
 <br>task.json
 <br>"command": "g++"
 * [PCL](https://blog.csdn.net/mush_room/article/details/78339578)
-** 预装依赖库
-** 
+
