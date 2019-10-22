@@ -28,3 +28,5 @@
 * WIN10+VS2017 libLAS usage
 <br> [compiled libLAS](https://blog.csdn.net/qq_22170875/article/details/89425358)
 <br> for more details, please refer to the dir [libLAS](https://github.com/JiahaoXia/DoNotForget/tree/master/libLAS)
+* 第三方库配置
+<br> [VS添加第三方库](https://blog.csdn.net/i_chaoren/article/details/77893527)
