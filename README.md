@@ -22,4 +22,4 @@
 <br>task.json
 <br>"command": "g++"
 * [PCL](https://blog.csdn.net/mush_room/article/details/78339578)
-
+* [WIN10+VS2017, PCL安装及配置](https://blog.csdn.net/weixin_41991128/article/details/83864713)
