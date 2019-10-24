@@ -5,6 +5,7 @@
 * [Win10+Ubuntu双系统---Ubuntu卸载](https://www.cnblogs.com/xia-Autumn/p/6294055.html)
 * Ubuntu
 <br> .deb file installation: sudo  dpkg  -i  package.deb
+<br> Ubuntu进入命令行模式 在boot时按【ctrl+alt+f1~f6】
 
 
 ## Tools
