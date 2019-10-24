@@ -6,6 +6,7 @@
 * Ubuntu
 <br> .deb file installation: sudo  dpkg  -i  package.deb
 <br> Ubuntu进入命令行模式 在boot时按【ctrl+alt+f1~f6】
+<br> dev/sda6:clean错误 通常与显卡驱动相关
 
 
 ## Tools
