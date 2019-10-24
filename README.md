@@ -30,3 +30,4 @@
 <br> for more details, please refer to the dir [libLAS](https://github.com/JiahaoXia/DoNotForget/tree/master/libLAS)
 * 第三方库配置
 <br> [VS添加第三方库](https://blog.csdn.net/i_chaoren/article/details/77893527)
+× [Ubuntu tensorflow,keras installation by anaconda](https://blog.csdn.net/weixin_39954229/article/details/79961172)
