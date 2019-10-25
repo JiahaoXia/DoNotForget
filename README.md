@@ -33,3 +33,6 @@
 * 第三方库配置
 <br> [VS添加第三方库](https://blog.csdn.net/i_chaoren/article/details/77893527)
 * [Ubuntu tensorflow,keras installation by anaconda](https://blog.csdn.net/weixin_39954229/article/details/79961172)
+* Ubuntu 18.04下安装NVIDIA驱动
+<br> 需要disable security boot
+<br> 在software & updates--->additional drivers中下载NVIDIA驱动
