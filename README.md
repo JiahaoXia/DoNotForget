@@ -25,6 +25,8 @@
 <br>"command": "g++"
 * [PCL](https://blog.csdn.net/mush_room/article/details/78339578)
 * [WIN10+VS2017, PCL安装及配置](https://blog.csdn.net/weixin_41991128/article/details/83864713)
+* pycharm使用
+<br>[设置pycharm运行时可以输出变量值](https://blog.csdn.net/qq_15969343/article/details/79895761)
 
 ## Installation
 * WIN10+VS2017 libLAS usage
