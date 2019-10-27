@@ -36,4 +36,4 @@
 * Ubuntu 18.04下安装NVIDIA驱动
 <br> 需要disable security boot
 <br> 在software & updates--->additional drivers中下载NVIDIA驱动
-* [Tensorflow安装](https://www.tensorflow.org/install/gpu)
+* [Ubuntu下 Tensorflow安装](https://www.tensorflow.org/install/gpu)
