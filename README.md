@@ -27,6 +27,11 @@
 * [WIN10+VS2017, PCL安装及配置](https://blog.csdn.net/weixin_41991128/article/details/83864713)
 * pycharm使用
 <br>[设置pycharm运行时可以输出变量值](https://blog.csdn.net/qq_15969343/article/details/79895761)
+* TerraPhoto
+<br> 当软件中某些ToolBox被意外关闭，可以通过命令行的方式打开
+<br> 在 右上角（Search Ribbon）中输入key-in调出 命令行
+<br> 在对话框右下角 选择 TPhoto
+<br> 依次 键入 对应命令调出所需工具
 
 ## Installation
 * WIN10+VS2017 libLAS usage
