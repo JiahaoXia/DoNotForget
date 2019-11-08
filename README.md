@@ -44,3 +44,6 @@
 <br> 需要disable security boot
 <br> 在software & updates--->additional drivers中下载NVIDIA驱动
 * [Ubuntu下 Tensorflow安装](https://www.tensorflow.org/install/gpu)
+
+### Programming
+* [python] plt.plot() 当使用x=x1,y=y1时绘制图像为空，直接使用x1，y1时绘制正确
