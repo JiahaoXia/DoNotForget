@@ -47,3 +47,5 @@
 
 ### Programming
 * [python] plt.plot() 当使用x=x1,y=y1时绘制图像为空，直接使用x1，y1时绘制正确
+* WIN10 下打开jupyter notebook访问无法访问其他盘符的解决方法
+<br> WIN+R进入CMD模式 cd到指定盘符下，再由命令行打开jupyter notebook即可
