@@ -50,3 +50,7 @@
 * WIN10 下打开jupyter notebook访问无法访问其他盘符的解决方法
 <br> WIN+R进入CMD模式 cd到指定盘符下，再由命令行打开jupyter notebook即可
 * [python彩色映射](https://blog.csdn.net/guduruyu/article/details/60868501)
+* python code: 
+<br> b=a
+<br> a[b>k] = a[b>k] + m
+<br> the value of a and b will change at the same time
