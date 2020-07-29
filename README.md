@@ -54,6 +54,7 @@
 <br> b=a
 <br> a[b>k] = a[b>k] + m
 <br> the value of a and b will change at the same time
+* [tensorflow] (https://www.zhihu.com/question/57308628/answer/1353318151) Out of Memory in one GPU
 
 ### Learning resources
 * [CVPR 2020 论文大盘点-目标检测篇](https://mp.weixin.qq.com/s/Qg-ZoRKtIsq4NYNekS326g)
