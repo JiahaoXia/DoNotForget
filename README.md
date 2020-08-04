@@ -56,6 +56,7 @@
 <br> the value of a and b will change at the same time
 * [tensorflow](https://www.zhihu.com/question/57308628/answer/1353318151) Out of Memory in one GPU
 * [ValueError: The passed save_path is not a valid checkpoint] use absolute directory
+* [multi-GPU Training] (https://wizardforcel.gitbooks.io/tensorflow-examples-aymericdamien/content/6.2_multigpu_cnn.html)
 
 ### Learning resources
 * [CVPR 2020 论文大盘点-目标检测篇](https://mp.weixin.qq.com/s/Qg-ZoRKtIsq4NYNekS326g)
