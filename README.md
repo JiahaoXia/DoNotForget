@@ -55,7 +55,7 @@
 <br> a[b>k] = a[b>k] + m
 <br> the value of a and b will change at the same time
 * [tensorflow](https://www.zhihu.com/question/57308628/answer/1353318151) Out of Memory in one GPU
-* [ValueError: The passed save_path is not a valid checkpoint] use absolute directory
+* [ValueError: The passed save_path is not a valid checkpoint](https://blog.csdn.net/qq_37764129/article/details/93979561) use absolute directory
 * [multi-GPU Training](https://wizardforcel.gitbooks.io/tensorflow-examples-aymericdamien/content/6.2_multigpu_cnn.html)
 
 ### Learning resources
