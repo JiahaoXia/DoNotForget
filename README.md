@@ -60,3 +60,4 @@
 
 ### Learning resources
 * [CVPR 2020 论文大盘点-目标检测篇](https://mp.weixin.qq.com/s/Qg-ZoRKtIsq4NYNekS326g)
+* [Essential and Fundamental Matrices](http://www.cse.psu.edu/~rtc12/CSE486/lecture19.pdf)
