@@ -32,6 +32,8 @@
 <br> 在 右上角（Search Ribbon）中输入key-in调出 命令行
 <br> 在对话框右下角 选择 TPhoto
 <br> 依次 键入 对应命令调出所需工具
+* Ubuntu on Win10
+<br> [How to Access Your Ubuntu Bash Files in Windows (and Your Windows System Drive in Bash)](https://www.howtogeek.com/261383/how-to-access-your-ubuntu-bash-files-in-windows-and-your-windows-system-drive-in-bash/)
 
 ## Installation
 * WIN10+VS2017 libLAS usage
