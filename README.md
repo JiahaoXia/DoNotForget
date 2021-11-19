@@ -8,6 +8,7 @@
 <br> Ubuntu进入命令行模式 在boot时按【ctrl+alt+f1~f6】
 <br> dev/sda6:clean错误 通常与显卡驱动相关
 <br> nautilus --- file management
+* [ubuntu 挂载硬盘](https://segmentfault.com/a/1190000022840767)
 
 
 ## Tools
